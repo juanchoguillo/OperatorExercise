@@ -104,7 +104,7 @@ namespace OperatorExercise
             if( z == x + y)
             {
                 Console.WriteLine(" You are right!");
-                return ++rightAnswer
+               // return ++rightAnswer
 
             }
 
